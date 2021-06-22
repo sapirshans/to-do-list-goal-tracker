@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/sapirshans/to-do-list-goal-tracker.git/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/sapirshans/to-do-list-goal-tracker.git/static/js/main.1a9daaff.chunk.js",
-    "main.js.map": "/sapirshans/to-do-list-goal-tracker.git/static/js/main.1a9daaff.chunk.js.map",
-    "runtime-main.js": "/sapirshans/to-do-list-goal-tracker.git/static/js/runtime-main.4295c9fb.js",
-    "runtime-main.js.map": "/sapirshans/to-do-list-goal-tracker.git/static/js/runtime-main.4295c9fb.js.map",
-    "static/js/2.ec3e9455.chunk.js": "/sapirshans/to-do-list-goal-tracker.git/static/js/2.ec3e9455.chunk.js",
-    "static/js/2.ec3e9455.chunk.js.map": "/sapirshans/to-do-list-goal-tracker.git/static/js/2.ec3e9455.chunk.js.map",
-    "static/js/3.5989b5a9.chunk.js": "/sapirshans/to-do-list-goal-tracker.git/static/js/3.5989b5a9.chunk.js",
-    "static/js/3.5989b5a9.chunk.js.map": "/sapirshans/to-do-list-goal-tracker.git/static/js/3.5989b5a9.chunk.js.map",
+    "main.css": "/sapirshans/to-do-list-goal-tracker.git/static/css/main.25b6321d.chunk.css",
+    "main.js": "/sapirshans/to-do-list-goal-tracker.git/static/js/main.37ef3ef7.chunk.js",
+    "main.js.map": "/sapirshans/to-do-list-goal-tracker.git/static/js/main.37ef3ef7.chunk.js.map",
+    "runtime-main.js": "/sapirshans/to-do-list-goal-tracker.git/static/js/runtime-main.f6e2d11d.js",
+    "runtime-main.js.map": "/sapirshans/to-do-list-goal-tracker.git/static/js/runtime-main.f6e2d11d.js.map",
+    "static/js/2.405804ea.chunk.js": "/sapirshans/to-do-list-goal-tracker.git/static/js/2.405804ea.chunk.js",
+    "static/js/2.405804ea.chunk.js.map": "/sapirshans/to-do-list-goal-tracker.git/static/js/2.405804ea.chunk.js.map",
+    "static/js/3.f29256ae.chunk.js": "/sapirshans/to-do-list-goal-tracker.git/static/js/3.f29256ae.chunk.js",
+    "static/js/3.f29256ae.chunk.js.map": "/sapirshans/to-do-list-goal-tracker.git/static/js/3.f29256ae.chunk.js.map",
     "index.html": "/sapirshans/to-do-list-goal-tracker.git/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/sapirshans/to-do-list-goal-tracker.git/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.ec3e9455.chunk.js.LICENSE.txt": "/sapirshans/to-do-list-goal-tracker.git/static/js/2.ec3e9455.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/sapirshans/to-do-list-goal-tracker.git/static/media/logo.6ce24c58.svg"
+    "static/css/main.25b6321d.chunk.css.map": "/sapirshans/to-do-list-goal-tracker.git/static/css/main.25b6321d.chunk.css.map",
+    "static/js/2.405804ea.chunk.js.LICENSE.txt": "/sapirshans/to-do-list-goal-tracker.git/static/js/2.405804ea.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/sapirshans/to-do-list-goal-tracker.git/static/media/selima_-webfont.c8069e95.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.4295c9fb.js",
-    "static/js/2.ec3e9455.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.1a9daaff.chunk.js"
+    "static/js/runtime-main.f6e2d11d.js",
+    "static/js/2.405804ea.chunk.js",
+    "static/css/main.25b6321d.chunk.css",
+    "static/js/main.37ef3ef7.chunk.js"
   ]
 }
