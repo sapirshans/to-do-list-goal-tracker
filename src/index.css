@@ -1,13 +1,48 @@
+@font-face{ 
+	font-family: 'Selima';
+	src: url('./fonts/selima_-webfont.woff') format('woff');
+}
+
+html{
+  min-height: 100%;
+  position:relative;
+}
+
 body {
   margin: 0;
+  height: 100%;
+  width: 100%;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #ccfccb;
+  color: #294936;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+h1 {
+  font-family: "Selima";
+  text-transform: lowercase;
+  font-size: 72px;
+}
+
+input {
+  background-color: transparent;
+  color: #294936;
+  margin-bottom: 24px;
+}
+
+input:focus {
+  outline: none;
+}
+
+input::placeholder {
+  color: #6b926e;
+  opacity: 1;
 }
